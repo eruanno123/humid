@@ -11,3 +11,8 @@ No more specs because I am lazy. And I don't care 🤷‍♂️.
 
 Probably the only interesting part are custom glyphs for displaying large
 digits.
+
+**Credits:**
+
+- *DFRobot.com*, for original LCD implementation
+- *Tony DiCola*, for original DHT11 sensor driver implementation
